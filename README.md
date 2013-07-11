@@ -2,6 +2,12 @@
 
 Attempting to provide GoPro like functionality, but using a Raspberry Pi some web cams and some Python scripts.
 
+## Version 2:
+
+Items I'm looking to add:
+ - [] Add hardware _button_ to start/stop recording
+ - [] Modify main capture loop to continue from last image written to storage path 
+
 ## Version 1:
 Proof of concept. Almost everything is hardcoded. I know nothing about Python. What could go wrong!
 
